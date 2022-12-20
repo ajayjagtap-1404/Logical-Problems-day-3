@@ -1,7 +1,6 @@
-package com.bridgelabz.LogicalPrograming;
+package com.bridgelabz.LogicalProgramingday5;
 
 import java.util.Scanner;
-import java.util.logging.SocketHandler;
 
 public class CoinFliper {
 

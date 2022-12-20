@@ -1,4 +1,4 @@
-package com.bridgelabz.LogicalPrograming;
+package com.bridgelabz.LogicalProgramingday5;
 import  java.util.Scanner;
 
 public class VowelConsonantChecker {
